@@ -1,9 +1,9 @@
-### Hi there 👋
 
-<!--
-**chethanbhatbs/chethanbhatbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your  profile.
 
-Here are some ideas to get you started:
+
+
+
+
 
 
 <h1 align="center">Hi 👋, I'm Chethan Bhat</h1>
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chethanbhatbs" alt="chethanbhatbs" /></a> </p>
 
-- 🔭 I’m currently working on **Railway communication**
+- 🔭 I’m currently working on **Railay communication**
 
 - 🌱 I’m currently learning **FPGA, Embedded systems,VHDL, DSP**
 
