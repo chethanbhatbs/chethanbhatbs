@@ -20,7 +20,7 @@
 
 <a href="https://twitter.com/chethanbhatbs1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chethanbhatbs1" height="30" width="40" /></a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chethan-bhat-b-s-535b0a212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chethan-bhat-b-s-535b0a212" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/chethan-bhat-b-s-535b0a212" target="https://images.app.goo.gl/rAefnkr9e5jGT2Hf9"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chethan-bhat-b-s-535b0a212" height="30" width="40" /></a>
 
 <a href="https://fb.com/chethan bhat bs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chethan bhat bs" height="30" width="40" /></a>
 
