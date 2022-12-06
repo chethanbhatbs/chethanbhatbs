@@ -6,7 +6,7 @@
                                                       
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chethanbhatbs&label=Profile%20views&color=0e75b6&style=flat" alt="chethanbhatbs" /> </p>
 
-- 🔭 I’m currently working on **Railway communication**
+- 🔭 I’m currently working on **Railway communication project**
 
 - 🌱 I’m currently learning **FPGA, Embedded systems,VHDL, DSP**
 
