@@ -2,6 +2,8 @@
 
 <h3 align="center">I am interested in Embedded systems, PLC, VHDL, IOT, PCB designing, Microcontroller</h3>
 
+<img align="right" alt="electronics" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRY4HIE3klmK5M5AXWJNFkvq9fqoxdKTVRUw&usqp=CAU" >
+                                                      
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chethanbhatbs&label=Profile%20views&color=0e75b6&style=flat" alt="chethanbhatbs" /> </p>
 
 - 🔭 I’m currently working on **Railway communication**
