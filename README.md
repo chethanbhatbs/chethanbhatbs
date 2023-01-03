@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about FPGA, VLSI, Embedded systems, PLC, PCB Designing, IOT, Semiconductor Electronics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chethanbhatbs&label=Profile%20views&color=0e75b6&style=flat" alt="chethanbhatbs" /> </p>
-<img align="right" alt="electronics" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F758645499718499272%2F&psig=AOvVaw2BfFixcR8wK8y5gFdpqHOl&ust=1672841852536000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDMw9XLq_wCFQAAAAAdAAAAABAE" >
+<img align="right" alt="electronics" width="400" src="https://images.app.goo.gl/WbxxNYRCmTbNsNvd8" >
 
 - I’m currently working on a project **based on wireless communication**
 
