@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chethan Bhat</h1>
+<h1 align="center">Hi I'm Chethan Bhat</h1>
 
 <h3 align="center">I am interested in Embedded systems, PLC, VHDL, IOT, PCB designing, Microcontroller</h3>
 
@@ -6,15 +6,15 @@
                                                       
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chethanbhatbs&label=Profile%20views&color=0e75b6&style=flat" alt="chethanbhatbs" /> </p>
 
-- 🔭 I’m currently working on **Railway communication project**
+-  I’m currently working on a Project **Wirless communication for Railway **
 
-- 🌱 I’m currently learning **FPGA, Embedded systems,VHDL, DSP**
+-  I’m currently learning **FPGA, Embedded systems,VHDL, DSP**
 
-- 👯 I’m looking to collaborate on **Long range audio Communication**
+-  I’m looking to collaborate on **Long range audio Communication**
 
-- 💬 Ask me about **Digital signal processing, API**
+- Ask me about **Digital signal processing, API,**
 
-- 📫 How to reach me **bschethanbhat@gmail.com**
+- How to reach me **bschethanbhat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
