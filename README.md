@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Chethan Bhat</h1>
-<h3 align="center">QA Engineer | Manual & API Testing | Aspiring Developer</h3>
+<h3 align="center">QA Engineer | AI Agent Evals | API Testing | Aspiring Developer</h3>
 
 <p align="center">
   <a href="mailto:bschethanbhat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -11,7 +11,8 @@
 ## About Me
 
 - QA Engineer at **Emergent**, based in Bengaluru, India
-- I handle **manual testing, API validation, defect tracking**, and **release verification**
+- Primarily focused on **AI Agent Evaluations** and **Agent Leaps** (evals across major model releases)
+- Also handle **manual testing, API validation, defect tracking**, and **release verification**
 - Previously worked in the **EV domain**, supporting smart charging solutions and resolving real-time production issues
 - Background in **Electronics & Communication Engineering** with hands-on experience in hardware (FPGA, Embedded Systems, IoT)
 - Eager to grow into **software development** and work at the intersection of **code and hardware**
@@ -21,7 +22,8 @@
 ## Experience
 
 **QA Engineer** - Emergent *(Jan 2026 - Present)*
-- Manual and exploratory testing across web applications
+- Running **Agent Evals** — evaluating AI agent performance, reliability, and accuracy
+- Conducting **Agent Leaps** — evaluation cycles for major model releases to benchmark improvements
 - API validation and regression testing
 - Defect tracking, documentation, and release verification
 - Collaborating with developers to ensure product quality
