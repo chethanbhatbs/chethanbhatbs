@@ -57,16 +57,4 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chethanbhatbs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chethanbhatbs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 <p align="center"><i>Willing to learn, ready to build.</i></p>
