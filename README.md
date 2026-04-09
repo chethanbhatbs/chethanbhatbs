@@ -1,60 +1,74 @@
 <h1 align="center">Hi, I'm Chethan Bhat</h1>
-<h3 align="center">QA Engineer | AI Agent Evals | API Testing | Builder</h3>
+<h3 align="center">QA Engineer | AI Agent Evals | Building tools that save time</h3>
 
 <p align="center">
-  <a href="mailto:bschethanbhat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/chethan-bhat-535b0a212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://chethanbhatbs.github.io"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/chethan-bhat-535b0a212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:bschethanbhat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## About Me
+### What I build
 
-- QA Engineer at **Emergent**, based in Bengaluru, India
-- Focused on **AI Agent Evaluations** and **Agent Leaps** (evals across major model releases)
-- Also handle **manual testing, API validation, defect tracking**, and **release verification**
-- Previously worked in the **EV domain**, supporting smart charging solutions
-- Background in **Electronics & Communication Engineering** (FPGA, Embedded Systems, IoT)
-- Building tools and apps on the side to grow into full-stack development
+I'm a QA Engineer who builds developer tools on the side. I work on **AI agent evaluations** at Emergent and create **Claude Code skills**, **browser extensions**, and **full-stack apps** in my free time.
 
 ---
 
-## Apps & Tools
+## Featured Projects
 
-| Project | What it does | Tech | Link |
-|---------|-------------|------|------|
-| **Chrome Pilot** | Chrome extension for tab management — focus mode, profiles, auto-close, timeline | JavaScript | [Repo](https://github.com/chethanbhatbs/chrome-pilot) |
-| **JSON Diff** | Compare and diff two JSON objects side-by-side | JavaScript | [Repo](https://github.com/chethanbhatbs/json_diff) |
-| **CMS** | Charging Management System | JavaScript | [Repo](https://github.com/chethanbhatbs/CMS) |
+### Apps & Tools
 
-## Claude Code Skills
+<table>
+<tr>
+<td width="50%">
 
-Custom skills I built for [Claude Code](https://claude.ai/claude-code) to boost productivity:
+**[Chrome Pilot](https://github.com/chethanbhatbs/chrome-pilot)**
+<br>Chrome extension for tab management — focus mode, command palette (Cmd+K), domain grouping, session profiles, browsing timeline.
+<br>`Chrome Extension` `Manifest V3` `React`
+<br><sub>Clone and Load unpacked in Chrome. No build needed.</sub>
+
+</td>
+<td width="50%">
+
+**[EV Charging CMS](https://github.com/chethanbhatbs/CMS)**
+<br>Full management system for EV charging stations — OCPP 1.6, live sessions, remote ops, CRM, role-based access.
+<br>`React` `Python` `OCPP` `WebSocket`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[JSON Diff](https://github.com/chethanbhatbs/json_diff)**
+<br>Paste two JSONs, see side-by-side differences with syntax highlighting and nested expansion.
+<br>`React` `Python` `Developer Tool`
+
+</td>
+<td width="50%">
+
+**[Portfolio](https://chethanbhatbs.github.io)**
+<br>All my projects and skills in one place with one-click install commands.
+<br>`GitHub Pages`
+
+</td>
+</tr>
+</table>
+
+### Claude Code Skills
+
+Custom skills for [Claude Code](https://claude.ai/claude-code) — install any with one command:
 
 | Skill | What it does | Install |
 |-------|-------------|---------|
-| **[Token Saver](https://github.com/chethanbhatbs/token-saver-skill)** | Reduce token usage without losing functionality — targeted reads, model switching, context management | `gh repo clone chethanbhatbs/token-saver-skill ~/.claude/skills/token-saver` |
-| **[History Viewer](https://github.com/chethanbhatbs/history-viewer-skill)** | Browse past Claude Code conversations in a searchable HTML UI | `gh repo clone chethanbhatbs/history-viewer-skill ~/.claude/skills/history-viewer` |
-| **[Organize](https://github.com/chethanbhatbs/organize-skill)** | Sort Downloads, organize screenshots by month, flag duplicates and large files | `gh repo clone chethanbhatbs/organize-skill ~/.claude/skills/organize` |
-| **[Self-Improve](https://github.com/chethanbhatbs/self-improve-skill)** | Auto-retro after every task — captures mistakes and patterns for continuous improvement | `gh repo clone chethanbhatbs/self-improve-skill ~/.claude/skills/self-improve` |
-| **[Learnings](https://github.com/chethanbhatbs/learnings-skill)** | Capture and document what you learned from any task | `gh repo clone chethanbhatbs/learnings-skill ~/.claude/skills/learnings` |
-| **[Help](https://github.com/chethanbhatbs/help-skill)** | List all installed custom skills with descriptions and usage | `gh repo clone chethanbhatbs/help-skill ~/.claude/skills/help` |
+| **[Token Saver](https://github.com/chethanbhatbs/token-saver-skill)** | Cut token usage 60-80% — targeted reads, model switching | `gh repo clone chethanbhatbs/token-saver-skill ~/.claude/skills/token-saver` |
+| **[History Viewer](https://github.com/chethanbhatbs/history-viewer-skill)** | Browse past conversations in a searchable HTML UI | `gh repo clone chethanbhatbs/history-viewer-skill ~/.claude/skills/history-viewer` |
+| **[Organize](https://github.com/chethanbhatbs/organize-skill)** | Auto-sort Downloads, organize screenshots, flag duplicates | `gh repo clone chethanbhatbs/organize-skill ~/.claude/skills/organize` |
+| **[Self-Improve](https://github.com/chethanbhatbs/self-improve-skill)** | Auto-retro after tasks — Claude learns from its mistakes | `gh repo clone chethanbhatbs/self-improve-skill ~/.claude/skills/self-improve` |
+| **[Learnings](https://github.com/chethanbhatbs/learnings-skill)** | Capture knowledge from any task | `gh repo clone chethanbhatbs/learnings-skill ~/.claude/skills/learnings` |
+| **[Help](https://github.com/chethanbhatbs/help-skill)** | List all installed skills | `gh repo clone chethanbhatbs/help-skill ~/.claude/skills/help` |
 
-> **Quick install any skill:** `gh repo clone chethanbhatbs/<skill-name> ~/.claude/skills/<skill-name>`
-
----
-
-## Experience
-
-**QA Engineer** - Emergent *(Jan 2026 - Present)*
-- Running **Agent Evals** — evaluating AI agent performance, reliability, and accuracy
-- Conducting **Agent Leaps** — evaluation cycles for major model releases
-- API validation, regression testing, defect tracking, release verification
-
-**Previous Role** - EV Domain
-- Supported smart charging solutions in production environments
-- Resolved real-time technical issues and ensured system reliability
+> If these skills save you time, a star on the repo helps others find them!
 
 ---
 
@@ -71,20 +85,10 @@ Custom skills I built for [Claude Code](https://claude.ai/claude-code) to boost 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_Code-6B4FBB?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-## Currently Learning
-
-- Full-stack development (React + Node.js + MongoDB)
-- Browser extension development
-- 3D graphics and simulations (Three.js, OpenGL)
-- Building developer tools and Claude Code skills
-
----
-
-<p align="center"><i>Willing to learn, ready to build.</i></p>
+<p align="center"><sub>QA by day, builder by night. Always shipping.</sub></p>
