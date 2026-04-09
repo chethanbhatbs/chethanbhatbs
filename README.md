@@ -26,7 +26,7 @@
 |---------|-------------|------|------|
 | **Chrome Pilot** | Chrome extension for tab management — focus mode, profiles, auto-close, timeline | JavaScript | [Repo](https://github.com/chethanbhatbs/chrome-pilot) |
 | **JSON Diff** | Compare and diff two JSON objects side-by-side | JavaScript | [Repo](https://github.com/chethanbhatbs/json_diff) |
-| **CMS** | Content Management System | JavaScript | [Repo](https://github.com/chethanbhatbs/CMS) |
+| **CMS** | Charging Management System | JavaScript | [Repo](https://github.com/chethanbhatbs/CMS) |
 
 ## Claude Code Skills
 
