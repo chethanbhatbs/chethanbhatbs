@@ -10,13 +10,26 @@
   <a href="mailto:bschethanbhat@gmail.com">Email</a>
 </p>
 
+<br/>
+
+---
+
+<h3 align="center">Featured · <a href="https://github.com/chethanbhatbs/my-claude">My Claude</a></h3>
+
 <p align="center">
-  <strong>Featured · <a href="https://github.com/chethanbhatbs/my-claude">My Claude</a></strong><br/>
-  A private, 100% local dashboard for everything Claude Code keeps in <code>~/.claude</code>: skills, MCP connectors, plugins, token usage and cost, and full conversation history. One command to install, nothing leaves your machine.
-  <br/>
+  A private, 100% local dashboard for everything Claude Code keeps in <code>~/.claude</code>:<br/>
+  skills, MCP connectors, plugins, token usage and cost, and full conversation history.<br/>
+  One command to install, nothing leaves your machine.
+</p>
+
+<p align="center">
   <a href="https://chethanbhatbs.github.io/my-claude/">Website</a> ·
   <a href="https://chethanbhatbs.github.io/my-claude/demo.html">Live demo</a>
 </p>
+
+---
+
+<br/>
 
 <p align="center">
   <sub>Everything else here is a work in progress: experiments, drafts, and Claude Code skills I'm actively iterating on.</sub>
