@@ -11,11 +11,13 @@
 </p>
 
 <p align="center">
-  <strong>Featured — <a href="https://github.com/chethanbhatbs/my-claude">My Claude</a></strong><br/>
-
-  A Chrome side-panel tab &amp; window manager · Manifest V3 · open source
+  <strong>Featured · <a href="https://github.com/chethanbhatbs/my-claude">My Claude</a></strong><br/>
+  A private, 100% local dashboard for everything Claude Code keeps in <code>~/.claude</code>: skills, MCP connectors, plugins, token usage and cost, and full conversation history. One command to install, nothing leaves your machine.
+  <br/>
+  <a href="https://chethanbhatbs.github.io/my-claude/">Website</a> ·
+  <a href="https://chethanbhatbs.github.io/my-claude/demo.html">Live demo</a>
 </p>
 
 <p align="center">
-  <sub>WIP — everything else here is a work in progress: experiments, drafts, and Claude Code skills I'm actively iterating on.</sub>
+  <sub>Everything else here is a work in progress: experiments, drafts, and Claude Code skills I'm actively iterating on.</sub>
 </p>
