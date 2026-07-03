@@ -11,7 +11,8 @@
 </p>
 
 <p align="center">
-  <strong>Featured — <a href="https://github.com/chethanbhatbs/tab-pilot">Tab Pilot</a></strong><br/>
+  <strong>Featured — <a href="https://github.com/chethanbhatbs/my-claude">My Claude</a></strong><br/>
+
   A Chrome side-panel tab &amp; window manager · Manifest V3 · open source
 </p>
 
